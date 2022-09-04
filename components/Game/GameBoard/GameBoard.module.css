@@ -1,0 +1,7 @@
+.game__board {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 26px;
+    margin: 30px 0;
+    border: 2px solid hsl(213, 30%, 29%);
+    border-collapse: collapse;
+}
